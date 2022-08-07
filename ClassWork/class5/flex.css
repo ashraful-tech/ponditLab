@@ -1,0 +1,23 @@
+.container{
+
+}
+
+header{
+    background-color: aqua;
+}
+nav{
+
+}
+
+nav ul{
+    display: flex;
+    justify-content: end;
+}
+
+nav ul li{
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+    display: inline-block;
+}

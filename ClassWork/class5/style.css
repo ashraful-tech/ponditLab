@@ -1,0 +1,23 @@
+.imagesection{
+    width: 400px;
+    float: left;
+    /* display: inline-block; */
+}
+
+img{
+    width: 100%;
+}
+
+.content{
+    float: left;
+    width: 400px;
+}
+
+.text{
+    float: left;
+    width: 400px;
+}
+
+.pera{
+    clear: both;
+}
