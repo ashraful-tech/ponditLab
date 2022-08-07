@@ -1,0 +1,25 @@
+      .world{
+            color:rgb(50, 222, 61);
+            background-color: blue;
+        }
+        #container{
+                width: 500px;
+                height: 300px;
+                background-color: aqua;
+        }
+
+        .a{
+            color: azure;
+            background-color: blueviolet;
+        }
+        nav ul{
+            display: flex;
+            background-color: beige;
+        }
+
+         nav ul li{
+            color: rgb(108, 103, 103);
+            background-color: none;
+            list-style-type: none;
+            padding: 10px;
+        }
